@@ -1,3 +1,3 @@
 # mypage
 hi
-i,m omid , i like design web
+i'm Omid, I like designing web
